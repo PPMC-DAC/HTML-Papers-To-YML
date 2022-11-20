@@ -1,0 +1,1717 @@
+- title: 'SkyFlow: Heterogeneous Streaming for Skyline computation using FlowGraph and SYCL'
+  author: 'J.C. Romero, A. Navarro, A. Rodriguez, R. Asenjo'
+  pub: "Future Generation Computer Systems"
+  other: "Accepted on Nov. 2022"
+  id: 'UMA-DAC-22/3'
+  name: 'FGCS2022'
+  doi: 
+  year: '2022'
+  count: 
+  if: '7.307; Category: Computer Science, Theory and Methods'
+  rank: 10/109, Q1 (JCR 2021)
+  type: journal
+  featured: true
+
+- title: 'Enabling Easier Programming of Machine Learning Algorithms on Robots with oneAPI Toolkits'
+  author: 'Denisa-Andreea Constantinescu, Angeles Navarro, Rafael Asenjo, Juan-Antonio Fernández-Madrigal and Ana Cruz-Martín'
+  pub: "IEEE Feedforward"
+  other: "Vol 1, March 2022"
+  id: 'UMA-DAC-22/2'
+  name: 'IEEEFF'
+  url: 'https://r6.ieee.org/scv-cs/wp-content/uploads/sites/81/2022/03/1-CS-Mag-Feedforward-Denisa-MyFinal.pdf'
+  year: '2022'
+  count: 
+  type: conference
+
+
+- title: 'Lightweight asynchronous scheduling in heterogeneous reconfigurable systems'
+  author: 'A. Rodríguez, A. Navarro, K. Nikov, J. Nunez-Yanez, R. Gran, D. Suárez Gracia, R. Asenjo'
+  pub: "Journal of Systems Architecture"
+  other: "Vol 124, March 2022"
+  id: 'UMA-DAC-22/1'
+  name: 'JSA2022'
+  doi: 'https://doi.org/10.1016/j.sysarc.2022.102398'
+  year: '2022'
+  count: 
+  if: '5.836; Category: Computer Science, Hardware & Architecture' 
+  rank: 8/54, Q1 (JCR 2021)
+  type: journal
+  featured: true
+
+
+- title: 'Efficient Heterogeneous Matrix Profile on a CPU + High Performance FPGA with Integrated HBM'
+  author: 'J.C. Romero, A. Navarro, A. Vilches, A. Rodriguez, F. Corbera, R. Asenjo'
+  pub: "Future Generation Computer Systems"
+  other: "Vol. 125, December 2021, pp. 10-23"
+  id: 'UMA-DAC-21/9'
+  name: 'FGCS2021'
+  doi: 'https://doi.org/10.1016/j.future.2021.06.025'
+  year: '2021'
+  count: 
+  if: '7.307; Category: Computer Science, Theory and Methods'
+  rank: 10/109, Q1 (JCR 2021)
+  type: journal
+  featured: true
+
+
+- title: 'Enhancing Online Planning under Uncertainty via Bloom Filter Based Memory'
+  author: 'Denisa-Andreea Constantinescu, Angeles Navarro, Rafael Asenjo, Juan-Antonio Fernández-Madrigal and Ana Cruz-Martín'
+  pub: "Supercomputing'21 (SC'21) oneAPI Developer Summit"
+  other: "Nov. 14, 2021"
+  id: 'UMA-DAC-21/8'
+  name: 'DevSummit21'
+  url: 'https://www.oneapi.io/event-sessions/enhancing-online-planning-on-low-power-cpu-gpu-socs-via-bloom-filter-based-memory/'
+  year: '2021'
+  count: 
+  type: conference
+
+
+- title: 'Enhancing Online Planning under Uncertainty via Bloom Filter Based Memory'
+  author: 'Denisa-Andreea Constantinescu, Rafael Asenjo, Angeles Navarro, Juan-Antonio Fernández-Madrigal and Ana Cruz-Martín'
+  pub: "VI Congreso Español de Informática, CEDI 20/21 (XXXI Edición de las Jornadas de Paralelismo, JP'20/21)"
+  other: "Málaga, Spain, 22-24 Sept. 2021"
+  id: 'UMA-DAC-21/7'
+  name: 'jp21-c'
+  year: '2021'
+  count: 
+  type: conference
+
+
+- title: 'SkyFlow: Streaming heterogeneo para calculo de skyline mediante FlowGraph y oneAPI'
+  author: 'Jose Carlos Romero, Felipe Muñoz, Antonio Vilches, Andres Rodriguez, Angeles Navarro and Rafael Asenjo'
+  pub: "VI Congreso Español de Informática, CEDI 20/21 (XXXI Edición de las Jornadas de Paralelismo, JP'20/21)"
+  other: "Málaga, Spain, 22-24 Sept. 2021"
+  id: 'UMA-DAC-21/6'
+  name: 'jp21-b'
+  year: '2021'
+  count: 
+  type: conference
+
+
+- title: 'Optimización del método Visvalingam-Whyatt para reducir series temporales en tiempo real'
+  author: 'Felipe Muñoz López, Antonio Vilches Reina, Angeles Navarro and Rafael Asenjo'
+  pub: "VI Congreso Español de Informática, CEDI 20/21 (XXXI Edición de las Jornadas de Paralelismo, JP'20/21)"
+  other: "Málaga, Spain, 22-24 Sept. 2021"
+  id: 'UMA-DAC-21/5'
+  name: 'jp21-a'
+  year: '2021'
+  count: 
+  type: conference
+
+
+- title: 'oneAPI implementation of the OWM algorithm for DTM seed point detection'
+  author: 'Felipe Muñoz, Rafael Asenjo, Angeles Navarro, and J. Carlos Cabaleiro'
+  pub: "Conference on High Performance Computing, CHPC'21"
+  other: "Cadiz, Spain. July 22 - 27, 2021"
+  id: 'UMA-DAC-21/4'
+  name: 'CHPC21'
+  year: '2021'
+  count: 
+  type: conference
+
+
+- title: 'oneAPI for GPUs and FPGAs: portability, yes!, performance portability, not quite'
+  author: 'Rafael Asenjo'
+  pub: "Keynote at 29th Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP 2021."
+  other: "On-line, March 10, 2021"
+  id: 'UMA-DAC-21/3'
+  name: 'pdp2021'
+  year: '2021'
+  count: 
+  type: keynote
+
+
+- title: 'Efficiency and productivity for decision making on low-power heterogeneous CPU+GPU SoCs'
+  author: 'Denisa-Andreea Constantinescu, Angeles Navarro, Francisco Corbera, Juan-Antonio Fernández-Madrigal, Rafael Asenjo'
+  pub: "The Journal of Supercomputing"
+  other: "Vol 77, pp. 44-65, January 2021"
+  id: 'UMA-DAC-21/2'
+  name: 'JS2021'
+  doi: 'https://doi.org/10.1007/s11227-020-03257-3'
+  year: '2021'
+  count: 
+  if: '2.557; Category: Computer Science, Theory and Methods'
+  rank: 43/110, Q2 (JCR 2021)
+  type: journal
+  featured: true
+
+- title: 'Efficient Geometrical Clock Synchronization for Pairwise Sensor Systems'
+  author: 'Juan-Antonio Fernández Madrigal, Angeles Navarro, Rafael Asenjo, Ana Cruz-Martin'
+  pub: "IEEE Sensors Journal"
+  other: "Vol 21, NO.1, pp. 838-846, January 2021"
+  id: 'UMA-DAC-21/1'
+  name: 'IEEE-Sensors'
+  doi: 'https://doi.org/10.1109/JSEN.2020.3014525'
+  year: '2021'
+  count: 
+  type: journal
+
+
+- title: 'Boosting productivity of decision making with oneAPI-based heterogeneous shcedulers on SoCs'
+  author: 'Denisa-Andreea Constantinescu, Angeles Navarro, Juan-Antonio Fernández-Madrigal and Rafael Asenjo'
+  pub: "oneAPI Developer Summit 2020"
+  other: "Nov. 12 2020"
+  id: 'UMA-DAC-20/6'
+  name: 'DevSummit20'
+  url: 'https://www.oneapi.io/videos/boosting-productivity-of-decision-making-with-oneapi-based-heterogeneous-schedulers-on-socs/'
+  year: '2020'
+  count: 
+  type: conference
+
+
+- title: 'Panel: The oneAPI Software Abstraction for Heterogeneous Computing'
+  author: 'Rafael Asenjo, Erik Lindahl, Xiaozhu Meng, Michael Wong, David Hardy, Maria Garzaran, Moderator: Sujata Tibrewala'
+  pub: "IEEE-ACM Intl. Conf. for High Performance Computing, Networking, Storage and Analysis (SC 2020)"
+  other: "Atlanta, USA, Nov. 17, 2020"
+  id: 'UMA-DAC-20/5'
+  name: 'PanelSC20'
+  url: 'https://sc20.supercomputing.org/presentation/?id=pan109&sess=sess190'
+  year: '2020'
+  count: 
+  type: other
+
+
+- title: 'Tutorial: C++ for Heterogeneous Programming: oneAPI (DPC++ and oneTBB)'
+  author: 'James Reinders (Intel), Michael Voss (Intel), Pablo Reble (Intel), Rafael Asenjo (UMA)'
+  pub: "IEEE-ACM Intl. Conf. for High Performance Computing, Networking, Storage and Analysis (SC 2020)"
+  other: "Atlanta, USA, Nov. 9 and 10, 2020"
+  id: 'UMA-DAC-20/4'
+  name: 'TutorialSC20'
+  url: 'https://sites.google.com/view/sc20-tutorial-oneapi/'
+  year: '2020'
+  count: 
+  type: other
+
+
+- title: 'Characterization, Statistical Analysis and Method Selection in the Two-Clocks Synchronization Problem for Pairwise Interconnected Sensors'
+  author: 'Juan-Antonio Fernández Madrigal, Angeles Navarro, Rafael Asenjo, Ana Cruz-Martin'
+  pub: "Sensors Journal"
+  other: "August 2020"
+  id: 'UMA-DAC-20/3'
+  name: 'MDPI-Sensors'
+  url: 'https://www.mdpi.com/1424-8220/20/17/4808/htm'
+  doi: 'https://doi.org/10.3390/s20174808'
+  year: '2020'
+  count: 
+  type: journal
+
+
+- title: 'ScrimpCo: Scalable Matrix Profile on Commodity Heterogeneous Processors'
+  author: 'Jose Carlos Romero, Antonio Vilches, Andrés Rodríguez, Angeles Navarro, Rafael Asenjo'
+  pub: "The Journal of Supercomputing"
+  other: "March 2020"
+  id: 'UMA-DAC-20/2'
+  name: 'JS2020'
+  doi: 'https://doi.org/10.1007/s11227-020-03199-w'
+  year: '2020'
+  count: 
+  if: '2.474; Category: Computer Science, Theory and Methods'
+  rank: 33/110, Q2 (JCR 2020)
+  type: journal
+  featured: true
+
+
+- title: 'Performance evaluation of decision making under uncertainty for low power heterogeneous platforms'
+  author: 'Denisa-Andreea Constantinescu, Angeles Navarro, Juan-Antonio Fernández Madrigal, Rafael Asenjo'
+  pub: "Journal of Parallel and Distributed Computing, JPDC"
+  other: "Vol. 137 pp. 119-133, March 2020"
+  id: 'UMA-DAC-20/1'
+  name: 'JPDC2020'
+  doi: 'https://doi.org/10.1016/j.jpdc.2019.11.009'
+  year: '2020'
+  count: 
+  if: '3.734; Category: Computer Science, Theory and Methods'
+  rank: 19/110, Q1 (JCR 2020) 
+  type: journal
+  featured: true
+
+
+- title: 'High-Performance Simultaneous Multiprocessing for Heterogeneous System-on-Chip'
+  author: 'Kris Nikov, Jose Nunez-Yanez, Mohammad Hosseinabady, Rafael Asenjo, Andres Rodriguez and Maria Navarro'
+  pub: "The Thirteenth International Workshop on Programmability and Architectures for Heterogeneous Multicores, MULTIPROG-2020"
+  other: "Bologna, Italy, January 20, 2020"
+  id: 'UMA-DAC-19/11'
+  name: 'Multiprog2020'
+  year: '2020'
+  count: 
+  type: conference
+
+
+- title: 'Solving Large-Scale Markov Decision Processes on Low-Power Heterogeneous Platforms'
+  author: 'Denisa-Andreea Constantinescu, Angeles Navarro, Francisco Corbera, Juan-Antonio Fernández Madrigal, Rafael Asenjo'
+  pub: "International Conference on Computational and Mathematical Methods in Science and Engineering"
+  other: "Cadiz, Spain. June 30 - July 6, 2019"
+  id: 'UMA-DAC-19/10'
+  name: 'CCMMSE-b'
+  year: '2019'
+  count: 
+  type: conference
+
+
+- title: 'Time Series Heterogeneous Co-Execution on CPU+GPU'
+  author: 'Jose Carlos Romero, Angeles Navarro, Andrés Rodríguez, Rafael Asenjo, Murray Cole'
+  pub: "International Conference on Computational and Mathematical Methods in Science and Engineering"
+  other: "Cadiz, Spain. June 30 - July 6, 2019"
+  id: 'UMA-DAC-19/9'
+  name: 'CCMMSE-a'
+  year: '2019'
+  count: 
+  type: conference
+
+
+- title: 'ClinicAppChain: A Low-Cost Blockchain Hyperledger Solution for Healthcare'
+  author: 'Daniel-Jesus Munoz, Denisa-Andreea Constantinescu, Rafael Asenjo, Lidia Fuentes'
+  pub: "Blockchain and Applications"
+  other: "Springer Nature Switzerland AG, Sept. 2019"
+  id: 'UMA-DAC-19/8'
+  name: 'Blockchain'
+  doi: 'https://doi.org/10.1007/978-3-030-23813-1_5'
+  year: '2019'
+  count: 
+  type: conference
+
+
+- title: 'Soporte OpenCL 2.0 para Intel TBB'
+  author: 'Felipe Muñoz, Jose Carlos Romero Moreno, Alejandro Villegas, Angeles Navarro, Andrés Rodríguez and Rafael Asenjo'
+  pub: "XXX Edición de las Jornadas de Paralelismo, JP'19"
+  other: "Caceres, Spain, 18-20 Sept. 2019"
+  id: 'UMA-DAC-19/7'
+  name: 'jp19-b'
+  year: '2019'
+  count: 
+  type: conference
+
+
+- title: 'Aceleración de Time-Series sismográficas en Python'
+  author: 'Francisco López, Thomas Grass, Rafael Asenjo and Angeles Navarro'
+  pub: "XXX Edición de las Jornadas de Paralelismo, JP'19"
+  other: "Caceres, Spain, 18-20 Sept. 2019"
+  id: 'UMA-DAC-19/6'
+  name: 'jp19-a'
+  year: '2019'
+  count: 
+  type: conference
+
+
+- title: 'Book: Pro TBB: C++ Parallel Programming with Threading Building Blocks'
+  author: 'Michael Voss, Rafael Asenjo, James Reinders'
+  pub: "Apress, doi: 10.1007/978-1-4842-4398-5, ISBN: 978-1-4842-4397-8"
+  other: "July 2019"
+  id: 'UMA-DAC-19/5'
+  name: 'TBBBOOK'
+  url: 'https://www.apress.com/978-1-4842-4397-8'
+  url2: 'https://github.com/Apress/pro-TBB'
+  year: '2019'
+  count: 
+  type: other
+
+
+- title: 'Parallel multiprocessing and scheduling on the heterogeneous Xeon+FPGA platform'
+  author: 'Andrés Rodríguez, Angeles Navarro, Rafael Asenjo, Francisco Corbera, Rubén Gran, Darío Suárez, Jose Nunez-Yanez'
+  pub: "The Journal of Supercomputing"
+  other: "June 2019"
+  id: 'UMA-DAC-19/4'
+  name: 'SIJS19'
+  url: 'https://rdcu.be/bHl6B'
+  doi: 'https://doi.org/10.1007/s11227-019-02935-1'
+  year: '2019'
+  count: 
+  type: journal
+
+
+- title: 'Exploring Heterogeneous Scheduling for Edge Computing with CPU and FPGA MPSoCs'
+  author: 'Andrés Rodríguez, Angeles Navarro, Rafael Asenjo, Francisco Corbera, Rubén Gran, Darío Suárez, Jose Nunez-Yanez'
+  pub: "Journal of Systems Architecture"
+  other: "Volume 98, pp. 27-40, Sept. 2019"
+  id: 'UMA-DAC-19/3'
+  name: 'JSA19'
+  doi: 'https://doi.org/10.1016/j.sysarc.2019.06.006'
+  year: '2019'
+  count: 
+  type: journal
+
+
+- title: 'Heterogeneous parallel_for template for CPU-GPU chips'
+  author: 'Angeles Navarro, Francisco Corbera, Andrés Rodríguez, Antonio Vilches, Rafael Asenjo'
+  pub: "Intl. Journal of Parallel Programming"
+  other: "Volumen 47, Issue 2, pp213-233, April 2019"
+  id: 'UMA-DAC-19/2'
+  name: 'IJPP'
+  doi: 'https://doi.org/10.1007/s10766-018-0555-0'
+  year: '2019'
+  count: 
+  type: journal
+
+
+- title: 'Evaluation of Heterogeneous execution on an HPC-oriented CPU-FPGA System-on-Chip'
+  author: 'Andrés Rodríguez, Angeles Navarro, Rafael Asenjo, Francisco Corbera, Rubén Gran, Darío Suarez, J.L. Nunez-Yanez'
+  pub: "HLPGPU: High-Level Programming for Heterogeneous and Hierarchical Parallel Systems (HLPGPU 2019 at HiPEAC)"
+  other: "Valencia, Spain, 21-23 Jan. 2019"
+  id: 'UMA-DAC-19/1'
+  name: 'HLPGPU19'
+  year: '2019'
+  count: 
+  type: conference
+
+
+- title: 'Explotando el nuevo módulo OpenCL de Intel TBB'
+  author: 'José Carlos Romero, Alejandro Villegas, Angeles Navarro, Andrés Rodríguez, Rafael Asenjo'
+  pub: "XXIX Edición de las Jornadas de Paralelismo, JP'18"
+  other: "Teruel, Spain, 12-14 Sept. 2018"
+  id: 'UMA-DAC-18/9'
+  name: 'jp18-b'
+  year: '2018'
+  count: 
+  type: conference
+
+
+- title: 'Memoria Transaccional Software en Procesadores CPU+GPU Heterogéneos'
+  author: 'Alejandro Villegas, Angeles Navarro, Rafael Asenjo, Oscar Plata'
+  pub: "XXIX Edición de las Jornadas de Paralelismo, JP'18"
+  other: "Teruel, Spain, 12-14 Sept. 2018"
+  id: 'UMA-DAC-18/8'
+  name: 'jp18-a'
+  year: '2018'
+  count: 
+  type: conference
+
+
+- title: 'Workload Partitioning Strategy for Improved Parallelism on FPGA-CPU Heterogeneous Chips'
+  author: 'Sam Amiri, Mohammad Hosseinabady, Andrés Rodríguez, Rafael Asenjo, Angeles Navarro, Jose Nunez-Yanez'
+  pub: "International Conference on Field-Programmable Logic and Applications (FPL)"
+  other: "Dublin, Ireland, August 2018"
+  id: 'UMA-DAC-18/7'
+  name: 'FPL18'
+  year: '2018'
+  count: 
+  type: conference
+
+
+- title: 'Lightweight Hardware Transactional Memory for GPU Scratchpad Memory'
+  author: 'A. Villegas, R. Asenjo, A. Navarro, O. Plata and D. R. Kaeli'
+  pub: "IEEE Transactions on Computers"
+  other: "pp. 816-829. vol 67, issue 6, June 2018"
+  id: 'UMA-DAC-18/6'
+  name: 'TC17'
+  doi: 'https://doi.org/10.1109/TC.2017.2776908'
+  year: '2018'
+  count: 
+  type: journal
+
+
+- title: 'Simultaneous multiprocessing in a software defined heterogeneous FPGA'
+  author: 'Jose Nunez-Yanez, Mohammad Hosseinabady, Moslem Amiri, Andrés Rodríguez, Rafael Asenjo, Angeles Navarro, Rubén Gran-Tejero, Darío Suárez-Gracia'
+  pub: "Journal of Supercomputing"
+  other: "April 2018"
+  id: 'UMA-DAC-18/5'
+  name: 'JS18-b'
+  url: 'https://rdcu.be/LE0I'
+  doi: 'https://doi.org/10.1007/s11227-018-2367-9'
+  year: '2018'
+  count: 
+  type: journal
+
+
+- title: 'Toward a software transactional memory for heterogeneous CPU-GPU processors'
+  author: 'Alejandro Villegas, Angeles Navarro, Rafael Asenjo, Oscar Plata'
+  pub: "Journal of Supercomputing"
+  other: "April 2018"
+  id: 'UMA-DAC-18/4'
+  name: 'JS18'
+  url: 'http://rdcu.be/KvKS'
+  doi: 'https://link.springer.com/article/10.1007%2Fs11227-018-2347-0'
+  year: '2018'
+  count: 
+  type: journal
+
+
+- title: 'Tutorial: An Introduction to Intel® Threading Building Blocks (Intel® TBB) and its Support for Heterogeneous Programming'
+  author: 'Rafael Asenjo (UMA), James Cownie (Intel), Aleksei Fedotov (Intel)'
+  pub: "ACM Intl. Conf. Principles and Practice of Parallel Programming (PPoPP 2018)"
+  other: "Viena, Austria, Feb, 2018"
+  id: 'UMA-DAC-18/3'
+  name: 'TutorialPPoPP'
+  year: '2018'
+  count: 
+  type: other
+
+
+- title: 'Parallel algorithms for computing the smallest binary tree size in unit simplex refinement'
+  author: 'Guillermo Aparicio, José Manuel García, Leocadio Casado, Rafael Asenjo, Eligius Hendrix'
+  pub: "Journal of Parallel and Distributed Computing"
+  other: "Volume 112, Part 2, Pages 166-178, February 2018"
+  id: 'UMA-DAC-18/2'
+  name: 'jpdc17'
+  doi: 'http://dx.doi.org/10.1016/j.jpdc.2017.05.016'
+  year: '2018'
+  count: 
+  type: journal
+
+
+- title: 'Parallelizing Workload Execution in Embedded and High-Performance Heterogeneous Systems'
+  author: 'Jose Nunez-Yanez, Mohammad Hosseinabady, Moslem Amiri, Andrés Rodríguez, Rafael Asenjo, Angeles Navarro, Rubén Gran-Tejero, Darío Suárez-Gracia'
+  pub: "HIP3ES: High Performance Energy Efficient Embedded Systems Workshop, HiPEAC Conference"
+  other: "January 22-24, 2018, Manchester, United Kingdom, 2018"
+  id: 'UMA-DAC-18/1'
+  name: 'HIP3ES'
+  url: 'https://arxiv.org/abs/1802.03316'
+  year: '2018'
+  count: 
+  type: conference
+
+
+- title: 'Tutorial: Expressing Heterogeneous Parallelism in C++ with Intel Threading Building Blocks'
+  author: 'James Reinders (Intel), James Cownie (Intel), Pablo Reble (Intel), Rafael Asenjo (UMA)'
+  pub: "IEEE-ACM Intl. Conf. for High Performance Computing, Networking, Storage and Analysis (SC 2017)"
+  other: "Denver, CO, USA, Nov 13, 2017"
+  id: 'UMA-DAC-17/13'
+  name: 'TutorialSC'
+  year: '2017'
+  count: 
+  type: other
+
+
+- title: 'Tutorial: CPUs, GPUs, FPGAs: A Tutorial on Heterogeneity and Managing Accelerators with Intel Threading Building Blocks'
+  author: 'Mike Voss (Intel), James Cownie (Intel) and Rafael Asenjo (UMA)'
+  pub: "23rd Intl European Conf. on Parallel and Distributed Computing (EuroPar 2017)"
+  other: "Santiago de Compostela, Spain, Aug 29, 2017"
+  id: 'UMA-DAC-17/12'
+  name: 'TutorialEuroPar'
+  year: '2017'
+  count: 
+  type: other
+
+
+- title: 'Exploiting social network graph characteristics for efficient BFS on heterogeneous chips'
+  author: 'Luis Remis, Maria Jesus Garzaran, Rafael Asenjo, Angeles Navarro'
+  pub: "Journal of Parallel and Distributed Computing"
+  other: "ISSN 0743-7315, Nov, 2017"
+  id: 'UMA-DAC-17/11'
+  name: 'JPDC17-sbacpad'
+  doi: 'https://doi.org/10.1016/j.jpdc.2017.11.003'
+  year: '2017'
+  count: 
+  type: journal
+
+
+
+- title: 'La plataforma Rasberry Pi como base para la coordinación vertical'
+  author: 'R. Asenjo, S. González, F. Corbera, A. Navarro, A. Rodríguez, J. Villalba, E. Hendrix'
+  pub: "Revista en Enseñanza y Aprendizaje de Ingeniería de computadores, Experiencias Docentes en Ingeniería de Computadores, ISSN: 2173-8688"
+  other: "Depósito Legal: GR-899/2011, Edita: Departamento de Arquitectura y Tecnología de Computadores, UGR. Spain. pp. 5-20, Número 7, 2017"
+  id: 'UMA-DAC-17/9'
+  doi: http://dx.doi.org/10.30827/Digibug.47328
+  name: 'RPi-1'
+  year: '2017'
+  count: 
+  type: other
+
+
+- title: 'Simultaneous Multiprocessing on a FPGA+CPU Heterogeneous System-On-Chip'
+  author: 'Jose Nunez-Yanez, Mohmmad Hosseinabady, Andrés Rodríguez, Rafael Asenjo, Angeles Navarro, Darío Suárez, Rubén Gran'
+  pub: "3rd Intl. Workshop on Reengineering for Parallelism in Heterogeneous Parallel Platforms, co-located with PARCO 2017."
+  other: "Bolonia, Italia, 12-15 Sept. 2017"
+  id: 'UMA-DAC-17/8'
+  name: 'Repara2'
+  year: '2017'
+  count: 
+  type: conference
+
+
+- title: 'Towards a Software Transactional Memory for heterogeneous CPU-GPU processors'
+  author: 'Alejandro Villegas, Angeles Navarro, Rafael Asenjo, Oscar Plata'
+  pub: "3rd Intl. Workshop on Reengineering for Parallelism in Heterogeneous Parallel Platforms, co-located with PARCO 2017."
+  other: "Bolonia, Italia, 12-15 Sept. 2017"
+  id: 'UMA-DAC-17/7'
+  name: 'Repara1'
+  year: '2017'
+  count: 
+  type: conference
+
+
+- title: 'Motivando al alumno de ingeniería mediante la plataforma Raspberry Pi'
+  author: 'Rafael Asenjo, Sonia González, Francisco Corbera, Angeles Navarro, Andrés Rodríguez, Julio Villalba and Eligius Hendrix'
+  pub: "XXVIII Edición de las Jornadas de Paralelismo, JP'17"
+  other: "Malaga, Spain, 19-22 Sept. 2017"
+  id: 'UMA-DAC-17/6'
+  name: 'jp17-c'
+  year: '2017'
+  count: 
+  type: conference
+
+
+- title: 'Optimization of a decision-making algorithm for heterogeneous platforms'
+  author: 'Denisa Constantinescu, Angeles Navarro, Juan-Antonio Fernandez-Madrigal, Rafael Asenjo'
+  pub: "XXVIII Edición de las Jornadas de Paralelismo, JP'17"
+  other: "Malaga, Spain, 19-22 Sept. 2017"
+  id: 'UMA-DAC-17/5'
+  name: 'jp17-b'
+  year: '2017'
+  count: 
+  type: conference
+
+
+- title: 'Planificación thread-to-cluster de aplicaciones que utilizan memoria transaccional sobre un procesador heterogéneo'
+  author: 'Alejandro Villegas, Ernesto Rittwagen, Angeles Navarro, Rafael Asenjo, Oscar Plata'
+  pub: "XXVIII Edición de las Jornadas de Paralelismo, JP'17"
+  other: "Malaga, Spain, 19-22 Sept. 2017"
+  id: 'UMA-DAC-17/4'
+  name: 'jp17-a'
+  year: '2017'
+  count: 
+  type: conference
+
+
+- title: 'Hardware support for scratchpad memory transactions on GPU architectures'
+  author: 'Alejandro Villegas, Rafael Asenjo, Angeles Navarro Oscar Plata, Rafael Ubal, David Kaeli'
+  pub: "23rd International European Conference on Parallel and Distributed Computing, EuroPar'17"
+  other: "Santiago de Compostela, 30/8-1/9 2017"
+  id: 'UMA-DAC-17/3'
+  name: 'europar17'
+  year: '2017'
+  count: 
+  type: conference
+
+
+- title: 'Heterogeneous parallel for template based on TBB'
+  author: 'Antonio Vilches, Angeles Navarro, Francisco Corbera, Andrés Rodríguez, Rafael Asenjo'
+  pub: "10th International Symposium on High-Level Parallel Programming and Applications, HLPP'17"
+  other: "Valladolid, Spain, 10-11 July 2017"
+  id: 'UMA-DAC-17/2'
+  name: 'hlpp17'
+  year: '2017'
+  count: 
+  type: conference
+
+
+- title: 'On parallel Branch and Bound frameworks for Global Optimization'
+  author: 'Juan Francisco Rodríguez, José Manuel García, Eligius Hendrix, Rafael Asenjo, Leocadio Casado'
+  pub: "Journal of Global Optimization"
+  other: "Volume 69, Issue 3, pp 547–560, November 2017"
+  id: 'UMA-DAC-17/1'
+  name: 'jogo17'
+  url: 'https://link.springer.com/article/10.1007/s10898-017-0508-y'
+  doi: https://doi.org/10.1007/s10898-017-0508-y
+  year: '2017'
+  count: 
+  type: journal
+
+
+- title: 'Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming'
+  author: 'Rafael Asenjo and Tim Harris (Eds.)'
+  pub: "ACM PPoPP 2016"
+  other: "Barcelona, España, March 12-16, 2016. ISBN: 978-1-4503-4092-2"
+  id: 'UMA-DAC-16/9'
+  name: 'editorPPoPP'
+  url: 'http://dl.acm.org/citation.cfm?id=2851141&picked=prox'
+  year: '2016'
+  count: 
+  type: other
+
+
+- title: 'Making the most out of Heterogeneous Chips with CPU, GPU and FPGA'
+  author: 'Rafael Asenjo'
+  pub: "Keynote at 16th International Conference on Algorithms and Architectures for Parallel Processing, ICA3PP 2016."
+  other: "Granada, Spain, December 14-16, 2016"
+  id: 'UMA-DAC-16/8'
+  name: 'ica3pp'
+  year: '2016'
+  count: 
+  type: keynote
+
+
+- title: 'Breadth-First Search on Heterogeneous Platforms: A Case of Study on Social Networks'
+  author: 'Luis Remis, Maria Jesus Garzaran, Rafael Asenjo, Angeles Navarro'
+  pub: "28th Intl. Symp. on Computer Architecture and High Performance Computing, SBAC-PAD 2016."
+  other: "Marina del Rey, Los Angeles, USA, October 26-28, 2016"
+  id: 'UMA-DAC-16/7'
+  name: 'SBACPAD16'
+  year: '2016'
+  count: 
+  type: conference
+
+
+- title: 'Evaluación del Consumo Energético de la Memoria Transaccional Software en Procesadores Heterogéneos'
+  author: 'Emilio Villegas, Alejandro Villegas, Angeles Navarro, Rafael Asenjo, Oscar Plata'
+  pub: "XXVII Edición de las Jornadas de Paralelismo, JP 2016."
+  other: "Salamanca, Spain, 14-16 September, 2016"
+  id: 'UMA-DAC-16/6'
+  name: 'jp1-2016'
+  year: '2016'
+  count: 
+  type: conference
+
+
+- title: 'Improvements in Hardware Transactional Memory for GPU Architectures'
+  author: 'Alejandro Villegas, Rafael Asenjo, Angeles Navarro, Oscar Plata'
+  pub: "19th Workshop on Compilers for Parallel Computing, (CPC'16)"
+  other: "Valladolid, España, July 6-8, 2016"
+  id: 'UMA-DAC-16/5'
+  name: 'CPC16'
+  year: '2016'
+  count: 
+  type: conference
+
+
+- title: 'Energy Efficiency of Software Transactional Memory in a Heterogeneous Architecture'
+  author: 'Alejandro Villegas, Angeles Navarro, Rafael Asenjo, Oscar Plata'
+  pub: "8th Workshop on the Theory of Transactional Memory, WTTM 2016 co-located with PODC 2016."
+  other: "Chicago, Illinois, USA, July 25, 2016"
+  id: 'UMA-DAC-16/4'
+  name: 'WTTM2'
+  year: '2016'
+  count: 
+  type: conference
+
+
+- title: 'Workload distribution and balancing in FPGAs and CPUs with OpenCL and TBB'
+  author: 'Rafael Asenjo, Angeles Navarro, Andrés Rodríguez, J. Nunez-Yanez'
+  pub: "Parallel Computing: On the Road to Exascale. IOS Press."
+  other: "Gerhard R Joubert, Hugh Leather, Mark Parsons, Frans Peters, Mark Sawyer (eds), pp. 543-521, 2016"
+  id: 'UMA-DAC-16/3'
+  name: 'parafpga'
+  year: '2016'
+  count: 
+  type: conference
+
+
+- title: 'Pipeline Template for Streaming Applications on Heterogeneous Chips'
+  author: 'Andrés Rodríguez, Angeles Navarro, Rafael Asenjo, Francisco Corbera, Antonio Vilches, María Garzarán'
+  pub: "Parallel Computing: On the Road to Exascale. IOS Press."
+  other: "Gerhard R Joubert, Hugh Leather, Mark Parsons, Frans Peters, Mark Sawyer (eds), pp. 327-336, 2016"
+  id: 'UMA-DAC-16/2'
+  name: 'parco16'
+  year: '2016'
+  count: 
+  type: conference
+
+
+- title: 'Mapping streaming applications on commodity multi-CPU and GPU on-chip processors'
+  author: 'A. Vilches, A. Navarro, R. Asenjo, F. Corbera, R. Gran, and M. Garzaran'
+  pub: "IEEE Tran. on Parallel and Distributed Systems, Vol 27, No. 4"
+  other: "IEEE Computer Society, ISSN: 1045-9219, April 2016"
+  id: 'UMA-DAC-16/1'
+  name: 'tpds16'
+  doi: 'http://dx.doi.org/10.1109/TPDS.2015.2432809'
+  year: '2016'
+  count: 
+  type: journal
+
+
+- title: 'Algoritmos paralelos de memoria compartida que determinan el menor tamaño de un árbol binario al refinar un simplex regular'
+  author: 'Guillermo Aparicio, Eligius M.T. Hendrix, José Manuel García Salmerón, Inmaculada García, Leocadio G. Casado y Rafael Asenjo'
+  pub: "XXVI Edición de las Jornadas de Paralelismo, JP 2015."
+  other: "Córdoba, Spain, 23-25 September, 2015"
+  id: 'UMA-DAC-15/9'
+  name: 'jp3'
+  year: '2015'
+  count: 
+  type: conference
+
+
+- title: 'Patrón pipeline aplicado a arquitecturas heterogéneas big.LITTLE'
+  author: 'Antonio Vilches, Andrés Rodríguez, Ángeles Navarro, Francisco Corbera y Rafael Asenjo'
+  pub: "XXVI Edición de las Jornadas de Paralelismo, JP 2015."
+  other: "Córdoba, Spain, 23-25 September, 2015"
+  id: 'UMA-DAC-15/8'
+  name: 'jp2'
+  year: '2015'
+  count: 
+  type: conference
+
+
+- title: 'Memoria Transaccional Hardware en Memoria Local de GPU'
+  author: 'Alejandro Villegas, Angeles Navarro, Rafael Asenjo y Oscar Plata'
+  pub: "XXVI Edición de las Jornadas de Paralelismo, JP 2015."
+  other: "Córdoba, Spain, 23-25 September, 2015"
+  id: 'UMA-DAC-15/7'
+  name: 'jp1'
+  year: '2015'
+  count: 
+  type: conference
+
+
+- title: 'Parallel Pipeline on Heterogeneous Multi-Processing Architectures'
+  author: 'Andrés Rodríguez, Angeles Navarro, Rafael Asenjo, Antonio Vilches, Francisco Corbera, María Garzarán'
+  pub: "1st IEEE International Workshop on Reengineering for Parallelism in Heterogeneous Parallel Platforms (Repara 2015, part of ISPA-2015)."
+  other: "Helsinki, Finland, 20-22 August, 2015"
+  id: 'UMA-DAC-15/6'
+  name: 'repara'
+  year: '2015'
+  count: 
+  type: conference
+
+
+- title: 'Towards a Hardware Transactional Memory for GPU Local Memory'
+  author: 'Alejandro Villegas, Rafael Asenjo, Angeles Navarro, Oscar Plata'
+  pub: "XXIII Jornadas de Concurrencia y Sistemas Distribuidos, JCSD'15."
+  other: "Malaga, Spain. June 10-12, 2015"
+  id: 'UMA-DAC-15/5'
+  name: 'jcsd15'
+  year: '2015'
+  count: 
+  type: conference
+
+
+- title: 'Hardware support for Local Memory Transactions on GPU Architectures'
+  author: 'Alejandro Villegas, Angeles Navarro, Rafael Asenjo, Oscar Plata, Rafael Ubal and David Kaeli'
+  pub: "10th ACM SIGPLAN Workshop on Transactional Computing (TRANSACT 2015, part of FCRC 2015)."
+  other: "Portland, Oregon, USA. June 15-16, 2015"
+  id: 'UMA-DAC-15/4'
+  name: 'transact15'
+  year: '2015'
+  count: 
+  type: conference
+
+
+- title: 'Productive interface to map streaming applications on heterogeneous processors'
+  author: 'A. Rodríguez, A. Vilches, A. Navarro, R. Asenjo, F. Corbera, R. Gran, and M. Garzaran'
+  pub: "Technical Report. Dept. Comp. Architecture. Univ. of Malaga, May 2015."
+  id: 'UMA-DAC-15/3'
+  pdf: 'UMA-DAC-15-04.pdf'
+  name: 'tr15'
+  year: '2015'
+  count: 
+  type: technical
+
+
+- title: 'Adaptive Partitioning for Irregular Applications on Heterogeneous CPU-GPU chips'
+  author: 'Antonio Vilches, Rafael Asenjo, Angeles Navarro, Francisco Corbera, Rubén Gran and María J. Garzarán'
+  pub: "Procedia Computater Science, Vol 51,"
+  other: "Elsevier Eds. pp. 140-149, 2015"
+  id: 'UMA-DAC-15/2'
+  name: 'iccs'
+  doi: 'http://dx.doi.org/10.1016/j.procs.2015.05.213'
+  year: '2015'
+  count: 
+  type: conference
+
+
+- title: 'Reducing overheads of dynamic scheduling on heterogeneous chips'
+  author: 'Francisco Corbera, Andrés Rodríguez, Rafael Asenjo, Angeles Navarro, Antonio Vilches, and María J. Garzarán'
+  pub: "HIP3ES: High Performance Energy Efficient Embedded Systems, HiPEAC Conference,"
+  other: "Amsterdam, 19-21 Jan. 2015"
+  id: 'UMA-DAC-15/1'
+  name: 'hip3es'
+  url: 'http://arXiv.org/abs/1501.03336'
+  year: '2015'
+  count: 
+  type: conference
+
+
+- title: 'Hierarchical Regulation of the Sensor Data Transmission for Networked Telerobots'
+  author: 'Ángel Martínez-Tenor, Ana Gago-Benítez, Juan-Antonio Fernández-Madrigal, Ana Cruz-Martín, Rafael Asenjo, Angeles Navarro'
+  pub: "IEEE SENSORS 2014."
+  other: "Valencia, Spain, Nov. 2-5, 2014"
+  name: 'sensors'
+  id: 'UMA-DAC-14/7'
+  year: '2014'
+  count: 
+  type: conference
+
+
+- title: 'Modelos de programación para arquitecturas heterogéneas on-chip'
+  author: 'Rafael Asenjo'
+  pub: "Keynote inaugural de las XXV Jornadas de Paralelismo 2014 (JP2014)."
+  other: "Valladolid, España, Septiembre 17-19, 2014"
+  name: 'JornadasSarteco-Keynote'
+  id: 'UMA-DAC-14/6'
+  year: '2014'
+  count: 
+  type: keynote
+
+
+- title: 'On the parallelization of a three-parametric log-logistic estimation algorithm'
+  author: 'Rafael Asenjo, Andrés Rodríguez, Angeles Navarro, Juan-Antonio Fernández-Madrigal, Ana Cruz-Martín'
+  pub: "V Jornadas de Computación Empotrada 2014 (JCE2014)."
+  other: "Valladolid, España, Septiembre 17-19, 2014"
+  name: 'JCE14'
+  id: 'UMA-DAC-14/5'
+  year: '2014'
+  count: 
+  type: conference
+
+
+- title: 'Adaptive partitioning strategy for heterogeneous chips'
+  author: 'Antonio Vilches, Angeles Navarro, Rafael Asenjo, Francisco Corbera, Maria Garzaran'
+  pub: "XXV Jornadas de Paralelismo 2014 (JP2014)."
+  other: "Valladolid, España, Septiembre 17-19, 2014"
+  name: 'CEDI14'
+  id: 'UMA-DAC-14/4'
+  year: '2014'
+  count: 
+  type: conference
+
+
+- title: 'A Case Study of Different Task Implementations for Multioutput Stages in non-trivial Parallel Pipeline Applications'
+  author: 'Angeles Navarro, Rafael Asenjo, Francisco Corbera, Antonio J Dios and Emilio L Zapata'
+  pub: "Journal of Parallel Computing"
+  other: "June 2014"
+  id: 'UMA-DAC-14/03'
+  name: 'parco14'
+  doi: 'http://dx.doi.org/10.1016/j.parco.2014.05.003'
+  year: '2014'
+  count: 
+  type: journal
+
+
+- title: 'Adaptive Partitioning Strategies for Loop Parallelism in Heterogeneous Architectures'
+  author: 'A. Navarro, A. Vilches, F. Corbera and R. Asenjo'
+  pub: "The International Conference on High Performance Computing and Simulation (HPCS 2014)"
+  other: "Bologna, Italy, July 2014"
+  id: 'UMA-DAC-14/02'
+  name: 'hpcs14'
+  year: '2014'
+  count: 
+  type: conference
+
+
+- title: 'Strategies for maximizing utilization on multi-CPU and multi-GPU heterogeneous architectures'
+  author: 'A. Navarro, A. Vilches, F. Corbera and R. Asenjo'
+  pub: "The Journal of Supercomputing"
+  other: "May 2014"
+  other2: ""
+  id: 'UMA-DAC-14/01'
+  name: 'js14'
+  doi: 'http://dx.doi.org/10.1007/s11227-014-1200-3'
+  year: '2014'
+  count: 
+  type: journal
+
+
+- title: 'Strategies for Maximizing Utilization on multi-CPU & multi-GPU   Heterogeneous Architectures'
+  author: 'A. Navarro, A. Vilches, F. Corbera and R. Asenjo'
+  pub: "Technical Report. Dept. Comp. Architecture. Univ. of Malaga"
+  other: "Dec 2013"
+  name: 'TR-CPU-GPU1'
+  id: 'UMA-DAC-13/02'
+  pdf: 'UMA-DAC-13-02.pdf'
+  year: '2013'
+  count: 
+  type: technical
+
+
+- title: 'A case study of oversubscription on multi-CPU & multi-GPU heterogeneous systems'
+  author: 'A. Vilches, A. Navarro, F. Corbera and R. Asenjo'
+  pub: "Proceedings of the 13th International Conference on Computational and Mathematical Methods in Science and Engineering, CMMSE 2013"
+  other: "Cabo de Gata, Spain, June 2013"
+  id: 'UMA-DAC-13/01'
+  name: 'hpc-ac'
+  year: '2013'
+  count: 
+  type: conference
+
+
+- title: 'Main benefits of Task Parallel Framworks'
+  author: 'Rafael Asenjo'
+  pub: "HPC Advisory Council Spain Conference 2012"
+  other: "Málaga, Spain. September 13, 2012"
+  name: 'hpc-ac'
+  id: 'UMA-DAC-12/03'
+  url: 'http://www.hpcadvisorycouncil.com/events/2012/Spain-Workshop/pres/16_UofMalaga.pdf'
+  year: '2012'
+  count: 
+  type: conference
+
+
+- title: 'Global data re-allocation via communication aggregation in Chapel'
+  author: 'Alberto Sanz, Rafael Asenjo, Juan López, Rafael Larrosa, Angeles Navarro, Vassily Litvinov, Sung-Eun Choi, Bradford L. Chamberlain,'
+  pub: "2012 IEEE 24th International Symposium on Computer Architecture and High Performance Computing"
+  other: "New York City, NY, USA. October 24-26, 2012"
+  name: 'sbac12'
+  doi: https://doi.org/10.1109/SBAC-PAD.2012.18
+  id: 'UMA-DAC-12/02'
+  pdf: 'UMA-DAC-12-02.pdf'
+  pdf2: 'SBAC-PAD-2012-Chapel.pdf'
+  year: '2012'
+  count: 
+  type: conference
+
+
+- title: 'A  Data Dependence Test based on the Projection of Paths over Shape Graphs'
+  author: 'A. Navarro, F. Corbera, R. Asenjo, R. Castillo and E.L. Zapata,'
+  pub: "Journal of Parallel and Distributed Computing"
+  other: "Volume 72, Issue 12, December 2012, Pages 1547-1564"
+  name: 'jpdc12'
+  doi: 'http://dx.doi.org/10.1016/j.jpdc.2012.08.004'
+  id: 'UMA-DAC-12/01'
+  year: '2012'
+  count: 
+  type: journal
+
+- title: 'A First Implementation of Parallel IO in Chapel for Block Data Distribution'
+  author: 'R. Larrosa, R. Asenjo, A. Navarro, B.L. Chamberlain'
+  pub: "Advances in Parallel Computing: Applications, Tools and Techniques on the Road to Exascale Computing"
+  other: "ISBN: 978-1-61499-040-6, Vol. 22, pp. 447-454, IOS Press BV, Amsterdam, 2012"
+  name: 'Parco-Chapel'
+  id: 'UMA-DAC-11/04'
+  pdf: 'UMA-DAC-11-04.pdf'
+  year: '2012'
+  count: 
+  type: conference
+
+- title: 'A case study of the task-based parallel wavefront pattern'
+  author: 'A. Dios, R. Asenjo, A. Navarro, F. Corbera, E.L. Zapata'
+  pub: "Advances in Parallel Computing: Applications, Tools and Techniques on the Road to Exascale Computing"
+  other: "ISBN: 978-1-61499-040-6, Vol. 22, pp. 65-72, IOS Press BV, Amsterdam,2012"
+  name: 'Parco-Wavefront'
+  id: 'UMA-DAC-11/03'
+  pdf: 'UMA-DAC-11-03.pdf'
+  year: '2012'
+  count: 
+  type: conference
+
+- title: 'High-level template for the task-based parallel wavefront pattern,'
+  author: 'A. Dios, R. Asenjo, A. Navarro, F. Corbera, E.L. Zapata'
+  pub: "The 18th annual IEEE International Conference on High Performance   Computing (HiPC 2011),"
+  other: "Bengaluru (Bangalore), India, December 18-21, 2011"
+  name: 'HiPC'
+  doi: 'http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6152717&isnumber=6152423'
+  id: 'UMA-DAC-11/06'
+  year: '2011'
+  count: 
+  type: conference
+
+
+- title: 'Wavefront template for the task-based programming model'
+  author: 'A. Dios, R. Asenjo, A. Navarro, F. Corbera, E.L. Zapata'
+  pub: "The 24th International Workshop on Languages and Compilers for Parallel Computing (LCPC 2011)"
+  other: "Colorado State University, Fort Collins, Colorado, September 8-10, 2011"
+  name: 'LCPC11'
+  id: 'UMA-DAC-11/05'
+  year: '2011'
+  count: 
+  type: conference
+
+
+- title: 'A case study of the task-based parallel wavefront pattern'
+  author: 'A. Dios, R. Asenjo, A. Navarro, F. Corbera, E.L. Zapata'
+  pub: "Technical Report. Dept. Comp. Architecture. Univ. of Malaga"
+  other: "July 2011"
+  name: 'TR-Wavefront1'
+  id: 'UMA-DAC-11/02'
+  pdf: 'UMA-DAC-11-02.pdf'
+  year: '2011'
+  count: 
+  type: technical
+
+
+- title: 'Wavefront template implementation based on the task programming model'
+  author: 'A. Dios, R. Asenjo, A. Navarro, F. Corbera, E.L. Zapata'
+  pub: "Technical Report. Dept. Comp. Architecture. Univ. of Malaga"
+  other: "March 2011"
+  name: 'TR-Wavefront'
+  id: 'UMA-DAC-11/01'
+  pdf: 'UMA-DAC-11-01.pdf'
+  year: '2011'
+  count: 
+  type: technical
+
+
+- title: ' Evaluation of the Task Programming Model in the Parallelization of Wavefront Problems'
+  author: 'A.J. Dios, R. Asenjo, A. Navarro, F. Corbera, E.L. Zapata'
+  pub: "III Congreso Español de Informática, Jornadas de Paralelismo 2010 (JP2010)."
+  other: "Valencia, España, Septiembre 7-10, 2010"
+  name: 'CEDI10-3'
+  id: 'UMA-DAC-10/4'
+  year: '2010'
+  count: 
+  type: conference
+
+
+- title: ' Implementing a Chapel library for parallel I/O'
+  author: 'Rafael Larrosa, A. Navarro, R. Asenjo, E.L. Zapata'
+  pub: "III Congreso Español de Informática, Jornadas de Paralelismo 2010 (JP2010)."
+  other: "Valencia, España, Septiembre 7-10, 2010"
+  name: 'CEDI10-2'
+  id: 'UMA-DAC-10/3'
+  year: '2010'
+  count: 
+  type: conference
+
+
+- title: ' Tridiagonal Systems in Chapel. Case study: The parallel cyclic reduction algorithm'
+  author: 'A. Sanz, J. López, A. Navarro, R. Asenjo'
+  pub: "III Congreso Español de Informática, Jornadas de Paralelismo 2010 (JP2010)."
+  other: "Valencia, España, Septiembre 7-10, 2010"
+  name: 'CEDI10-1'
+  id: 'UMA-DAC-10/2'
+  year: '2010'
+  count: 
+  type: conference
+
+
+- title: 'Evaluation of the Task Programming Model in the Parallelization of Wavefront Problems'
+  author: 'A.J. Dios, R. Asenjo, A. Navarro, F. Corbera, E.L. Zapata'
+  pub: "The 12th IEEE Intl. Conf. on High Performance Computing and Communications (HPCC-2010)."
+  other: "Melbourne, Australia, September 1-3, 2010"
+  name: 'HPCC10'
+  id: 'UMA-DAC-10/1'
+  pdf: 'UMA-DAC-10-01.pdf'
+  doi: 'http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5581345'
+  year: '2010'
+  count: 
+  type: conference
+
+- title: 'Conflict Analysis for heap-based Data Dependence Detection'
+  author: 'R. Castillo, F. Corbera, A. Navarro, R. Asenjo, E.L. Zapata'
+  pub: "Parallel Computing: From Multicores and GPU's to Petascale,"
+  other: "ISBN: 978-1-60750-529-7, Vol. 19, pp. 351-358, IOS Press BV, Amsterdam, 2010"
+  name: 'PARCO09'
+  id: 'UMA-DAC-09/5'
+  year: '2010'
+  count: 
+  type: conference
+
+- title: 'On the automatic detection of heap-induced data dependences with interprocedural shape analysis'
+  author: 'A. Tineo, F. Corbera, A. Navarro, R. Asenjo, E.L. Zapata'
+  pub: "International Workshop on Advanced Distributed and Parallel Network Applications (ADPNA-2009). In conjunction with ICPP 2009."
+  other: "Vienna, Austria, September 22-25, 2009"
+  name: 'ADPNA09'
+  id: 'UMA-DAC-09/6'
+  year: '2009'
+  count: 
+  type: conference
+
+
+- title: 'Analytical Modeling of Pipeline Parallelism'
+  author: 'A. Navarro, R. Asenjo, S. Tabik and C. Cascaval,'
+  pub: "ACM-IEEE International Conference on Parallel Architectures and Compilation Techniques (PACT)"
+  other: "Raleigh, North Carolina. September 12-16, 2009"
+  name: 'PACT09'
+  id: 'UMA-DAC-09/4'
+  pdf: 'UMA-DAC-09-04.pdf'
+  year: '2009'
+  count: 
+  type: conference
+
+
+- title: 'Load balancing using work-stealing for pipeline parallelism in emerging applications'
+  author: 'A. Navarro, R. Asenjo, S. Tabik and C. Cascaval,'
+  pub: "IBM Research Technical Paper RC24732."
+  other: "IBM T.J. Watson Research Center, Yorktown Heights, NY, USA. 2009"
+  name: 'ICS-TR'
+  id: 'UMA-DAC-09/3'
+  url: 'https://dominoweb.draco.res.ibm.com/3fce85156636a90f852575b0004d5b69.html'
+  year: '2009'
+  count: 
+  type: technical
+
+
+- title: 'Load balancing using work-stealing for pipeline parallelism in emerging applications'
+  author: 'A. Navarro, R. Asenjo, S. Tabik and C. Cascaval,'
+  pub: "ACM 23rd International Conference on Supercomputing"
+  other: "IBM T.J. Watson Research Center, Yorktown Heights, NY, USA. June 8-12, 2009"
+  name: 'ICS09'
+  id: 'UMA-DAC-09/2'
+  year: '2009'
+  count: 
+  type: conference
+
+
+- title: 'Complete DefUse-Analysis in recursive programs with dynamic data structures'
+  author: 'R. Castillo, F. Corbera, A. Navarro, R. Asenjo, and E.L. Zapata,'
+  pub: "Workshop on Productivity and Performance (PROPER 2008) Tools for HPC Application Development, at EuroPar'2008 Conference"
+  other: "Las Palmas de Gran Canaria, Spain, August 2008"
+  name: 'PROPER08'
+  doi: 'http://dx.doi.org/10.1007/978-3-642-00955-6_32'
+  id: 'UMA-DAC-08/2'
+  year: '2008'
+  count: 
+  type: conference
+
+
+- title: 'Parallelizing irregular C codes assisted by interprocedural shape analysis'
+  author: 'R. Asenjo, R. Castillo, F. Corbera, A. Navarro, A. Tineo and E.L. Zapata,'
+  pub: "22nd IEEE International Parallel & Distributed Processing Symposium (IPDPS'08)"
+  other: "Miami, Florida USA. April 14-18, 2008"
+  name: 'IPDPS08'
+  id: 'UMA-DAC-08/1'
+  pdf: 'UMA-DAC-08-01.pdf'
+  year: '2008'
+  count: 
+  type: conference
+
+
+- title: 'Tracing Recursive Flow Paths for Interprocedural Shape Analysis'
+  author: 'A. Tineo, F. Corbera, A. Navarro, R. Asenjo and E.L. Zapata,'
+  pub: "20th International Workshop on Languages and Compilers for Parallel Computing (LCPC'07)"
+  other: "Urbana, Illinois, October 11-13, 2007"
+  name: 'LCPC07'
+  id: 'UMA-DAC-07/10'
+  year: '2007'
+  count: 
+  type: conference
+
+
+- title: 'A formal presentation of shape analysis graphs and operations'
+  author: 'F. Corbera, A. Navarro, R. Asenjo, A. Tineo and E.L. Zapata,'
+  pub: "Technical Report. Dept. Comp. Architecture. Univ. of Malaga"
+  other: "July 2007"
+  name: 'TRformalYresultados'
+  id: 'UMA-DAC-07/09'
+  pdf: 'UMA-DAC-07-09.pdf'
+  year: '2007'
+  count: 
+  type: technical
+
+
+- title: 'Interfaz para la captura de estructuras de datos dinámicas en códigos C'
+  author: 'J.J. Segura, R. Asenjo, F. Corbera, A. Navarro and E.L. Zapata,'
+  pub: "XVIII Jornadas de Paralelismo, JP'2007"
+  other: "Sep 11 - 14, 2007, Zaragoza, Spain"
+  name: 'jornadas07'
+  id: 'UMA-DAC-07/08'
+  year: '2007'
+  count: 
+  type: conference
+
+
+- title: 'Interprocedural Def-Use Chains for Pointer-based Codes Optimizations'
+  author: 'R. Castillo, F. Corbera, A. Navarro, R. Asenjo and E.L. Zapata,'
+  pub: "3rd International Summer School on Advanced Computer Architecture and Compilation for Embedded Systems (ACACES 2007)"
+  other: "July 15 - 20, 2007, L'Aquila, Italy"
+  name: 'Hipeac-Rosa'
+  id: 'UMA-DAC-07/07'
+  year: '2007'
+  count: 
+  type: conference
+
+
+- title: 'A Compiler Framework for Automatic Parallelization of Pointer-based Codes'
+  author: 'A. Tineo, F. Corbera, A. Navarro, R. Asenjo and E.L. Zapata,'
+  pub: "3rd International Summer School on Advanced Computer Architecture and Compilation for Embedded Systems (ACACES 2007)"
+  other: "July 15 - 20, 2007, L'Aquila, Italy"
+  name: 'Hipeac-Adrian'
+  id: 'UMA-DAC-07/06'
+  year: '2007'
+  count: 
+  type: conference
+
+
+- title: 'Parallelization of dynamic data structures in pointer-based programs'
+  author: 'R. Castillo, F. Corbera, A. Navarro, R. Asenjo and E.L. Zapata,'
+  pub: "Transnational Access Meeting, HPC EUROPA EVENT"
+  other: "Bologna, June 2007"
+  name: 'HPC-Rosa'
+  id: 'UMA-DAC-07/05'
+  year: '2007'
+  count: 
+  type: conference
+
+
+- title: 'A new Abstraction of the Activation Record Stack for Interprocedural Shape Analysis'
+  author: 'A. Tineo, F. Corbera, A. Navarro, R. Asenjo and E.L. Zapata,'
+  pub: "Technical Report"
+  other: "February 2007"
+  name: 'TR2-07'
+  id: 'UMA-DAC-07/03'
+  pdf: 'UMA-DAC-07-03.pdf'
+  year: '2007'
+  count: 
+  type: technical
+
+
+- title: 'Complexity Study of the Shape Analisys based on CLSs'
+  author: 'A. Navarro, F. Corbera, R. Asenjo, A. Tineo and E.L. Zapata,'
+  pub: "Technical Report"
+  other: "February 2007"
+  name: 'TR1-07'
+  id: 'UMA-DAC-07/02'
+  pdf: 'UMA-DAC-07-02.pdf'
+  year: '2007'
+  count: 
+  type: technical
+
+
+- title: 'Detecting loop-carried dependences in programs with dynamic data structures'
+  author: 'A. Navarro, F. Corbera, A. Tineo, R. Asenjo and E.L. Zapata,'
+  pub: "Journal of Parallel and Distributed Computing"
+  other: "Volume 67, Issue 1 , January 2007, Pages 47-62"
+  name: 'jpdc07'
+  id: 'UMA-DAC-07/01'
+  pdf: 'UMA-DAC-07-01.pdf'
+  doi: 'http://dx.doi.org/10.1016/j.jpdc.2006.08.007'
+  year: '2007'
+  count: 
+  type: journal
+
+
+- title: 'Pointer analysis techniques targeted to accelerate shape analysis'
+  author: 'R. Castillo, F. Corbera, A. Navarro, R. Asenjo and E.L. Zapata,'
+  pub: "XVII Jornadas de Paralelismo"
+  other: "18-20 September 2006. Albacete. Spain"
+  name: 'jornadas06'
+  id: 'UMA-DAC-06/09'
+  year: '2006'
+  count: 
+  type: conference
+
+
+- title: 'Towards a Versatile Pointer Analysis Framework'
+  author: 'R. Castillo, A. Tineo, F. Corbera, A. Navarro, R. Asenjo and E.L. Zapata,'
+  pub: "In European Conference on Parallel Computing (EURO-PAR)"
+  other: "29th August - 1st September 2006. Dresden. Germany"
+  name: 'europar06'
+  id: 'UMA-DAC-06/08'
+  pdf: 'UMA-DAC-06-08.pdf'
+  doi: 'http://dx.doi.org/10.1007/11823285_33'
+  year: '2006'
+  count: 
+  type: conference
+
+
+- title: 'Experimental results in shape analysis'
+  author: 'R. Castillo, A. Tineo, F. Corbera, A. Navarro, R. Asenjo, E.L. Zapata'
+  pub: "Technical Report"
+  other: "March 2006"
+  id: 'UMA-DAC-2006/07'
+  pdf: 'UMA-DAC-06-07.pdf'
+  year: '2006'
+  count: 
+  type: technical
+
+
+- title: 'Shape Analysis for Dynamic Data Structures based on Coexistent Links Sets'
+  author: 'A. Tineo, F. Corbera, A. Navarro, R. Asenjo, E.L. Zapata'
+  pub: "12th Workshop on Compilers for Parallel Computing (CPC'2006)"
+  other: "La Coruña, Spain, pp. 149-163 (January 2006)"
+  id: 'UMA-DAC-2006/01'
+  pdf: 'UMA-DAC-06-01.pdf'
+  year: '2006'
+  count: 
+  type: conference
+
+
+- title: 'A new Strategy for Shape Analysis based on Coexistent Links Sets'
+  author: 'A. Tineo, F. Corbera, A. Navarro, R. Asenjo, E.L. Zapata'
+  pub: "Parallel Computing (ParCo'2005)"
+  other: "Univ. of Malaga, Spain, September 13-16, 2005"
+  id: 'UMA-DAC-2005/09'
+  pdf: 'UMA-DAC-05-09.pdf'
+  year: '2005'
+  count: 
+  type: conference
+
+
+- title: 'On the parallelization of irregular and dynamic programs'
+  author: 'O. Plata, R. Asenjo, E. Gutiérrez, F. Corbera, A. Navarro, E.L. Zapata'
+  pub: "Parallel Computing"
+  other: "vol. 31, Iss. 6, June 2005, pp. 544-562"
+  id: 'UMA-DAC-2005/05'
+  pdf: 'UMA-DAC-05-05.pdf'
+  year: '2005'
+  count: 
+  type: journal
+
+
+- title: 'A novel Approach for Detecting Heap-based Loop-carried Dependences'
+  author: 'A. Tineo,  F. Corbera, A. Navarro,  R. Asenjo, E.L. Zapata'
+  pub: "24th IEEE Int'l. Conf. on Parallel Processing (ICPP'2005)"
+  other: "Univ. of Oslo, Norway,  pp. 99-106 (June 2005)"
+  id: 'UMA-DAC-2005/02'
+  pdf: 'UMA-DAC-05-02.pdf'
+  year: '2005'
+  count: 
+  type: conference
+
+
+- title: 'A New Loop-Carried Dependence Detection Approach for Pointer-Based Codes'
+  author: 'F. Corbera, A. Navarro, R. Asenjo, A. Tineo, E.L. Zapata'
+  pub: "XV  Jornadas de Paralelismo"
+  other: "Almería, Spain, September 15-17, 2004, pp. 432-437"
+  id: 'UMA-DAC-2004/20'
+  year: '2004'
+  count: 
+  type: conference
+
+
+- title: 'A Framework to Capture Dynamic Data Structures in Pointer-Based Codes'
+  author: 'F. Corbera, R. Asenjo, E.L. Zapata'
+  pub: "IEEE Trans. on Parallel and Distributed Systems"
+  other: "vol. 15, no. 2, February 2004, pp. 151-166"
+  id: 'UMA-DAC-2004/16'
+  doi: 'https://doi.org/10.1109/TPDS.2004.1264798'
+  year: '2004'
+  count: 
+  type: journal
+
+
+- title: 'Tutorial: Exploitation of Locality and Parallelism in Pointer-based Programs'
+  author: 'O. Plata, R. Asenjo'
+  pub: "Int'l. Conf. on Parallel Architectures and Compilation Techniques (PACT'04)"
+  other: "Antibes Juan-les-Pins, France, September 29 - October 3, 2004"
+  id: 'UMA-DAC-2004/12'
+  year: '2004'
+  count: 
+  type: other
+
+
+- title: 'A new Dependence Test based on Shape Analysis for Pointer-based Codes'
+  author: 'A. Navarro, F. Corbera, R. Asenjo, A. Tineo, O. Plata, E.L. Zapata'
+  pub: "17th Int'l Workshop on Languages and Compilers for Parallel Computing (LCPC'2004)"
+  other: "West Lafayette, Indiana, USA, September 22-25, 2004"
+  other2: "(published by Springer-Verlag, Germany, LNCS 2005, v. 3602 pp. 394-408)"
+  id: 'UMA-DAC-2004/11'
+  pdf: 'UMA-DAC-04-11.pdf'
+  year: '2004'
+  count: 
+  type: conference
+
+
+- title: 'Exploiting Locality and Parallelism in Pointer-based Programs'
+  author: 'A. Navarro, R.G. Valderrama, F. Corbera, E. Gutiérrez, R. Asenjo, O. Plata, E.L. Zapata'
+  pub: "11th Workshop on Compilers for Parallel Computers (CPC'2004)"
+  other: "Seeon Monastery, Chiemsee, Germany, July 7-9, 2004"
+  id: 'UMA-DAC-2004/08'
+  pdf: 'UMA-DAC-04-08.pdf'
+  year: '2004'
+  count: 
+  type: conference
+
+
+- title: 'Optimization Techniques for Irregular and Pointer-based Programs'
+  author: 'R. Asenjo, F. Corbera, E. Gutiérrez, A. Navarro, O. Plata, E.L. Zapata'
+  pub: "12th Euromicro Conference on Parallel, Distributed and Network based Processing (PDP'2004)"
+  other: "La Coruña, Spain, February, 11-13, 2004"
+  id: 'UMA-DAC-2004/03'
+  year: '2004'
+  count: 
+  type: conference
+
+
+- title: 'On the Parallelization of Irregular and Dynamic Programs'
+  author: 'O. Plata, R. Asenjo, E. Gutiérrez, F. Corbera, A. Navarro, E.L. Zapata'
+  pub: "10th Workshop on Compilers for Parallel Computers (CPC'2003)"
+  other: "Amsterdam, The Netherlands, January 8-10, 2003"
+  id: 'UMA-DAC-2003/01'
+  pdf: 'UMA-DAC-03-01.pdf'
+  year: '2003'
+  count: 
+  type: conference
+
+
+- title: 'Towards Compiler Optimization of Codes Based on Arrays of Pointers'
+  author: 'F. Corbera, R. Asenjo, E. Zapata'
+  pub: "15th Int'l Workshop on Languages and Compilers for Parallel Computing (LCPC'02)"
+  other: "College Park, Maryland, July 25-27, 2002"
+  other2: "(published by Springer-Verlag, Germany, LNCS 2005, v. 2481 pp. 142-156)"
+  id: 'UMA-DAC-2002/13'
+  pdf: 'UMA-DAC-02-13.pdf'
+  year: '2002'
+  count: 
+  type: conference
+
+
+- title: 'Locality Analysis of Irregular and Dynamic Codes'
+  author: 'O. Plata, R. Asenjo, E. Gutiérrez, F. Corbera, E.L. Zapata'
+  pub: "NATO Advanced Research Workshop on High Performance Computing: Technology and Applications"
+  other: "Cetraro, Italy, June 24-27, 2002"
+  id: 'UMA-DAC-2002/10'
+  year: '2002'
+  count: 
+  type: conference
+
+
+- title: 'New Shape Analysis and Interprocedural Techniques for Automatic Parallelization of Codes'
+  author: 'F. Corbera, R. Asenjo, E.L. Zapata'
+  pub: "Int'l J. of Parallel Programming"
+  other: "vol. 30, no. 1, February 2002, pp. 37-63"
+  id: 'UMA-DAC-2002/04'
+  pdf: 'UMA-DAC-02-04.pdf'
+  year: '2002'
+  count: 
+  type: journal
+
+
+- title: 'Progressive Shape Analysis for Real C Codes'
+  author: 'F. Corbera, R. Asenjo, E.L. Zapata'
+  pub: "IEEE Int'l. Conf. on Parallel Processing (ICPP'2001)"
+  other: "Valencia, Spain, September 3-7, 2001"
+  id: 'UMA-DAC-2001/09'
+  pdf: 'UMA-DAC-01-09.pdf'
+  year: '2001'
+  count: 
+  type: conference
+
+
+- title: 'Automatic Parallelization of Irregular Applications'
+  author: 'E. Gutiérrez, R. Asenjo, O. Plata, E.L. Zapata'
+  pub: "J. Parallel Computing"
+  other: "vol. 26, no. 13-14, December 2000, pp. 1709-1738"
+  id: 'UMA-DAC-2000/37'
+  year: '2000'
+  count: 
+  type: journal
+
+
+- title: 'Accurate Shape Analysis for Recursive Data Structures'
+  author: 'F. Corbera, R. Asenjo, E.L. Zapata'
+  pub: "13th Int'l. Workshop on Languages and Compilers for Parallel Computing (LCPC'2000)"
+  other: "IBM T.J. Watson Res. Ctr., Yorktown Heights, New York, NY, August 10-12, 2000"
+  other2: "(published by Springer-Verlag, Berlin, Germany, S.P. Midkiff, J.E. Moreira, M. Gupta, S. Chatterjee, J. Ferrante, J. Prins, W. Pugh and C.-W. Tseng, Eds., LNCS no. 2017)"
+  id: 'UMA-DAC-2000/33'
+  pdf: 'UMA-DAC-00-33.pdf'
+  year: '2000'
+  count: 
+  type: conference
+
+
+- title: 'Un Paso en el Proceso de Paralelización Automática de Códigos C'
+  author: 'F. Corbera, R. Asenjo, E.L. Zapata'
+  pub: "XI Jornadas de Paralelismo"
+  other: "Granada, Spain, September 11-13, 2000"
+  id: 'UMA-DAC-2000/32'
+  pdf: 'UMA-DAC-00-32.pdf'
+  year: '2000'
+  count: 
+  type: conference
+
+
+- title: 'e-Commerce for Interactive Video Database'
+  author: 'R. Asenjo, I. Navarro, M. Rodríguez, M. Ujaldón, E.L. Zapata'
+  pub: "SSGRR 2000 Computer & eBusiness Conference"
+  other: "L`Aquila, Rome, July 31 - August 6, 2000"
+  id: 'UMA-DAC-2000/18'
+  pdf: 'UMA-DAC-00-18.pdf'
+  year: '2000'
+  count: 
+  type: conference
+
+
+- title: 'Automatic Iteration/Data Partitioning for Distributed Shared Memory Systems'
+  author: 'A. Navarro, R. Asenjo, E.L. Zapata'
+  pub: "NATO Advanced Research Workshop on High Performance Computing: Technology and Applications"
+  other: "Cetraro, Italy, June 12-15, 2000"
+  id: 'UMA-DAC-2000/11'
+  pdf: 'UMA-DAC-00-11.pdf'
+  year: '2000'
+  count: 
+  type: conference
+
+
+- title: 'New Shape Analysis Techniques for Automatic Parallelization of C Codes'
+  author: 'F. Corbera, R. Asenjo, E.L. Zapata'
+  pub: "ACM Int'l. Conf. on Supercomputing (ICS'99)"
+  other: "Rhodes, Greece, June 20-25, 1999"
+  id: 'UMA-DAC-1999/08'
+  pdf: 'UMA-DAC-99-08.pdf'
+  year: '1999'
+  count: 
+  type: conference
+
+
+- title: 'Access Descriptor Based Locality Analysis for Distributed-Shared Memory Multiprocessors'
+  author: 'A.G. Navarro, R. Asenjo, E.L. Zapata, D. Padua'
+  pub: "IEEE Int'l. Conf. on Parallel Processing (ICPP'99)"
+  other: "Aizu-Wakamatsu, Japan, pp. 86-94, September 21-24, 1999"
+  id: 'UMA-DAC-1999/06'
+  pdf: 'UMA-DAC-99-06.pdf'
+  year: '1999'
+  count: 
+  type: conference
+
+
+- title: 'Data-Parallel Support for Numerical Irregular Problems'
+  author: 'E.L. Zapata, O. Plata, R. Asenjo, G.P. Trabado'
+  pub: "J. Parallel Computing"
+  other: "vol. 25, no. 13-14, pp. 1971-1994, December 1999"
+  id: 'UMA-DAC-1999/03'
+  pdf: 'UMA-DAC-99-03.pdf'
+  year: '1999'
+  count: 
+  type: journal
+
+
+- title: 'Parallel Pivots LU Algorithm on the Cray T3E'
+  author: 'R. Asenjo, E.L. Zapata'
+  pub: "4th Int'l. Conf. of the ACPC (ACPC'99)"
+  other: "Salzburg, Austria, pp. 38-47, Feb. 16-18, 1999"
+  id: 'UMA-DAC-1999/01'
+  pdf: 'UMA-DAC-99-01.pdf'
+  longpdf: 'UMA-DAC-99-01long.pdf'
+  year: '1999'
+  count: 
+  type: conference
+
+
+- title: 'HPF-2 Support for Dynamic Sparse Computations'
+  author: 'R. Asenjo, O. Plata, J. Touriño, R. Doallo, E.L. Zapata'
+  pub: "11th Int'l Workshop on Languages and Compilers for Parallel Computing (LCPC'98)"
+  other: "Chapel Hill, North Carolina, pp. 230-246, August 7-9, 1998"
+  other2: "(published by Springer-Verlag, Berlin, Germany, S. Chatterjee, J.F. Prins, L. Carter, J. Ferrante, Z. Li, D. Sehr and P.-C. Yew, Eds., LNCS no. 1656)"
+  id: 'UMA-DAC-1998/11'
+  pdf: 'UMA-DAC-98-11.pdf'
+  year: '1998'
+  count: 
+  type: conference
+
+
+- title: 'Factorización LU de Matrices Dispersas en Multiprocesadores'
+  author: 'Rafael Asenjo Plaza'
+  pub: "PhD Thesis"
+  other: "Dept. Computer Architecture, University of Málaga, December 1997"
+  id: 'UMA-DAC-1997/32'
+  pdf: 'UMA-DAC-97-32.pdf'
+  year: '1997'
+  count: 
+  type: other
+
+
+- title: 'Paralelización Automática de Códigos Fortran Irregulares'
+  author: 'R. Asenjo, E. Gutiérrez, Y. Lin, D. Padua, B. Pottenger, E.L. Zapata'
+  pub: "VIII Jornadas de Paralelismo"
+  other: "Cáceres, Spain, September 10-12, 1997, pp. 351-364"
+  id: 'UMA-DAC-1997/13'
+  pdf: 'UMA-DAC-97-13.pdf'
+  year: '1997'
+  count: 
+  type: conference
+
+
+- title: 'Virtual Animation of Tomographic Volumes on Multiprocessors'
+  author: 'J.R. Cózar, R. Asenjo, E.L. Zapata'
+  pub: "VII Nat'l Symp. on Pattern Recognition and Image Analysis"
+  other: "Bellaterra (Barcelona), Spain, April 1997, pp. 329-334"
+  id: 'UMA-DAC-1997/09'
+  pdf: 'UMA-DAC-97-09.pdf'
+  year: '1997'
+  count: 
+  type: conference
+
+
+- title: 'On the Automatic Parallelization of Sparse and Irregular Fortran Codes'
+  author: 'R. Asenjo, E. Gutiérrez, Y. Lin, D. Padua, B. Pottenger, E.L. Zapata'
+  pub: "CSRD-1512"
+  other: "Univ. of Illinois at Urbana-Champaign, December 1996"
+  id: 'UMA-DAC-1996/34'
+  pdf: 'UMA-DAC-96-34.pdf'
+  year: '1996'
+  count: 
+  type: technical
+
+
+- title: 'Solving the Eigenvalues of Symmetric Sparse Matrices Applying Parallelism'
+  author: 'M.A. Trenas, R. Asenjo, E.L. Zapata'
+  pub: "Euroconference: Supercomputation in Nonlinear and Disordered Systems: Algorithms, Applications and Architectures"
+  other: "San Lorenzo de El Escorial, Madrid, Spain, September 23-28, 1996, pp. 347-351"
+  other2: "(published by World Scientific Pub., Singapore, L. Vázquez, F. Tirado, and I. Martín, Eds., 1997)"
+  id: 'UMA-DAC-1996/32'
+  pdf: 'UMA-DAC-96-32.pdf'
+  year: '1996'
+  count: 
+  type: conference
+
+
+- title: 'Analyzing Data Structures for Parallel Sparse Direct Solvers: Pivoting and Fill-in'
+  author: 'J. Touriño, R. Doallo, R. Asenjo, O. Plata, E.L. Zapata'
+  pub: "6th Workshop on Compilers for Parallel Computers"
+  other: "Aachen, Germany, December 11-13, 1996, pp. 151-168"
+  id: 'UMA-DAC-1996/30'
+  pdf: 'UMA-DAC-96-30.pdf'
+  year: '1996'
+  count: 
+  type: conference
+
+
+- title: 'Iterative and Direct Sparse Solvers on Parallel Computers'
+  author: 'R. Asenjo, G. Bandera, G.P. Trabado, O. Plata, E.L. Zapata'
+  pub: "Euroconference: Supercomputation in Nonlinear and Disordered Systems: Algorithms, Applications and Architectures"
+  other: "San Lorenzo de El Escorial, Madrid, Spain, September 23-28, 1996, pp. 85-99"
+  other2: "(published by World Scientific Pub., Singapore, L. Vázquez, F. Tirado, and I. Martín, Eds., 1997)"
+  id: 'UMA-DAC-1996/24'
+  pdf: 'UMA-DAC-96-24.pdf'
+  year: '1996'
+  count: 
+  type: conference
+
+
+- title: 'Algoritmos Paralelos para el Cálculo de Autovalores en Matrices Simétricas Dispersas'
+  author: 'M.A. Trenas, R. Asenjo, E.L. Zapata'
+  pub: "VII Jornadas de Paralelismo"
+  other: "Santiago de Compostela, Spain, September 11-13, 1996, pp. 397-406"
+  id: 'UMA-DAC-1996/19'
+  pdf: 'UMA-DAC-96-19.pdf'
+  year: '1996'
+  count: 
+  type: conference
+
+
+- title: 'Animación Virtual de Volúmenes Tomográficos en Multiprocesadores'
+  author: 'J.R. Cózar, R. Asenjo, E.L. Zapata'
+  pub: "VII Jornadas de Paralelismo"
+  other: "Santiago de Compostela, Spain, September 11-13, 1996, pp. 309-318"
+  id: 'UMA-DAC-1996/18'
+  pdf: 'UMA-DAC-96-18.pdf'
+  year: '1996'
+  count: 
+  type: conference
+
+
+- title: 'Compilation Issues for Irregular Problems'
+  author: 'R. Asenjo, G.P. Trabado, M. Ujaldón, E.L. Zapata'
+  pub: "Workshop on Parallel Programming Environments for High-Performance Computing"
+  other: "L'Alpe d'Huez, France, April 1-5, 1996, pp. 187-199"
+  id: 'UMA-DAC-1996/07'
+  pdf: 'UMA-DAC-96-07.pdf'
+  year: '1996'
+  count: 
+  type: conference
+
+
+- title: 'Sparse LU Factorization on the Cray T3D'
+  author: 'R. Asenjo, E.L. Zapata'
+  pub: "Int'l Conf. on High-Performance Computing and Networking"
+  other: "Milan, Italy, May 3-5, 1995, pp. 690-696"
+  other2: "(published by Springer-Verlag, Berlin, Germany, B. Hertzberger and G. Serazzi, Eds., LNCS no. 919)"
+  id: 'UMA-DAC-1995/08'
+  pdf: 'UMA-DAC-95-08.pdf'
+  longpdf: 'UMA-DAC-95-08long.pdf'
+  year: '1995'
+  count: 
+  type: conference
+
+
+- title: 'Parallel Sparse LU Factorization'
+  author: 'R. Asenjo, M. Ujaldón, E.L. Zapata'
+  pub: "HPF-2: Scope of Activities and Motivating Applications"
+  other: "High Performance Fortran Forum, 1994, pp. 72-78"
+  id: 'UMA-DAC-1994/24'
+  pdf: 'UMA-DAC-94-24.pdf'
+  year: '1994'
+  count: 
+  type: conference
+
+
+- title: 'Sparse Block and Cyclic Data Distributions for Matrix Computations'
+  author: 'R. Asenjo, L.F. Romero, M. Ujaldón, E.L. Zapata'
+  pub: "Advanced Workshop in High Performance Computing: Technology, Methods and Applications"
+  other: "Cetraro, Italy, June 1994, pp. 359-377"
+  other2: "(published by Elsevier Science, Amsterdam, The Netherlands, J.J. Dongarra, L. Grandinetti, G.R. Joubert and J.Kowalik, Eds., 1995)"
+  id: 'UMA-DAC-1994/06'
+  pdf: 'UMA-DAC-94-06.pdf'
+  year: '1994'
+  count: 
+  type: conference
+
+
+- title: '3D Reconstruction of Macromolecules on Multiprocessors'
+  author: 'M. Ujaldón, R. Asenjo, J.C. Cabaleiro, J.M. Carazo, E.L. Zapata'
+  pub: "2nd EUROMICRO Workshop on Parallel and Distributed Processing"
+  other: "Malaga, Spain, January 26-28, 1994, pp. 260-267"
+  id: 'UMA-DAC-1994/02'
+  pdf: 'UMA-DAC-94-02.pdf'
+  year: '1994'
+  count: 
+  type: conference
+
+
+- title: 'Parallel WZ Factorization on Mesh Multiprocessors'
+  author: 'R. Asenjo, M. Ujaldón, E.L. Zapata'
+  pub: "J. Microprocessing and Microprogramming"
+  other: "vol. 38, no. 5, 1993, pp. 319-326"
+  id: 'UMA-DAC-1993/07'
+  pdf: 'UMA-DAC-93-07.pdf'
+  year: '1993'
+  count: 
+  type: journal
